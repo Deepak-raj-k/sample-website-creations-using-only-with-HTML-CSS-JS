@@ -71,7 +71,7 @@ input:focus{
 }
 
 .side-nav-bar {
-    width: 500px;
+    width: 300px;
     position: fixed;
     margin: 20px 0px;
     height: 100%;
@@ -175,7 +175,7 @@ input:focus{
 }
 
 .footer-image {
-    background-image: url(https://ansainteriors.com/wp-content/uploads/2019/11/cafe-interior-design.jpg);
+    background-image: url(./images/cafe-interior-design.jpg);
     height: auto;
     width: 100%;
     background-repeat: no-repeat;
